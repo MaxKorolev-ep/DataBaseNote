@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="et_title_hint">Заголовок</string>
+    <string name="et_discription_hint">Описание</string>
+</resources>
